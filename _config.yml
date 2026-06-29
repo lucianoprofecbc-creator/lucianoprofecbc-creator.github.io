@@ -1,0 +1,6 @@
+title: "Molestaciones matemáticas"
+description: "Notas, ideas e irritaciones sobre matemática, física y geometría."
+theme: minima
+
+plugins:
+  - jekyll-feed
