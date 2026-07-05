@@ -1,8 +1,7 @@
 title: "🤔 Molestaciones matemáticas"
 email:
 description: >-
-  Notas, ideas e irritaciones sobre matemática, física, geometría y esas
-  pequeñas cosas que no dejan dormir a un matemático.
+  Cosas interesantes para mí
 
 github_username: lucianoprofecbc-creator
 locale: es-AR
@@ -45,9 +44,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Luciano Alejo Perez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I've been thinking...🤔"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
