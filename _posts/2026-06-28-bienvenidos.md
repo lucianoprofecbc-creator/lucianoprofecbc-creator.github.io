@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title: "Bienvenidos a Molestaciones matemáticas"
+math: true
 ---
 
 Este es el primer artículo de **Molestaciones matemáticas**.
