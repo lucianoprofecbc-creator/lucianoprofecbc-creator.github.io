@@ -1,17 +1,8 @@
 ---
 layout: single
-title: "Bienvenidos a Molestaciones matemáticas"
+title: "Bienvenidos a Molestaciones Matemáticas (Math Annoyancements)"
 math: true
 ---
 
-Este es el primer artículo de **Molestaciones matemáticas**.
+En **Molestaciones Matemáticas** (Math Annoyancements) escribo sobre cosas desde básicas a avanzadas, por diversas razones. La mayoría serán simples observaciones sobre enseñanza de matemáticas, física o economía, pero puede que cada tanto diga algo interesante.
 
-La idea de este blog es compartir observaciones, intuiciones y pequeñas molestias sobre matemática, física matemática y geometría.
-
-Una identidad que siempre merece aparecer es
-
-$$
-e^{i\pi}+1=0.
-$$
-
-Si todo está funcionando correctamente, esta fórmula debería verse renderizada más adelante cuando activemos MathJax. Si no, no se verá renderizada.
