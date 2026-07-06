@@ -13,4 +13,4 @@ $$
 e^{i\pi}+1=0.
 $$
 
-Si todo está funcionando correctamente, esta fórmula debería verse renderizada más adelante cuando activemos MathJax. Si no, no.
+Si todo está funcionando correctamente, esta fórmula debería verse renderizada más adelante cuando activemos MathJax. Si no, no se verá renderizada.
