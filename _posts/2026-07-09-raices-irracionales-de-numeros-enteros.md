@@ -21,3 +21,5 @@ Desde el punto de vista pedagógico, sin embargo, $\sqrt{2}$ es particularmente 
 <p align="center">
   <img src="{{ '/assets/images/posts/raices/sqrt2.svg' | relative_url }}" alt="Construcción geométrica de raíz de 2">
 </p>
+
+Una vez convencidos de que $\sqrt{2}$ es efectivamente un número *real* procedemos a probar que no es racional con un argumento por el absurdo. Generalicemos esa idea conocida por todos al caso de una raíz $\ell -esima$ de un natural $m$. 
