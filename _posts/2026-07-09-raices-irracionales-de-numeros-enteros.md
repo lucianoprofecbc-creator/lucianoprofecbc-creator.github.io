@@ -33,3 +33,11 @@ Pero la demostración de la irracionalidad no tiene ninguna dificultad, aun cuan
 Sean $n,\ell\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m^{\ell}$ o bien $\sqrt[\ell]{n}\notin\mathbf{Q}$
 
 </div>
+
+<div class="proof">
+
+<strong>Demostración.</strong>
+
+Supongamos que $\sqrt[\ell]{n}\in\mathbf{Q}$, entonces $\exists a,b\in\mathbf{N}$ tales que $\sqrt[\ell]{n}=\frac{a}{b}$. 
+
+</div>
