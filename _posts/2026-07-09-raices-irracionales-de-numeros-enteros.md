@@ -12,7 +12,7 @@ tags:
 
 ## Demostración Clásica 
 
-Todos hemos visto (y probablemente enseñado) en los cursos de pre-cálculo, una demostración de la irracionalidad de $\sqrt{2}$. Yo recuerdo verla en los viejos apuntes del CBC, de Guillermo Hansen, y en los de J. C. Pedraza también. La idea básica es muy sencilla y sólo usa el Teorema Fundamental de la Aritmética y un argumento por el absurdo. 
+Todos hemos visto (y probablemente enseñado) en los cursos de pre-cálculo, una demostración de la irracionalidad de $\sqrt{2}$. Yo recuerdo verla en los viejos apuntes del CBC, de Guillermo Hansen, y en los de J. C. Pedraza también. La idea básica es muy sencilla y sólo usa el Teorema Fundamental de la Aritmética (T.F.A) y un argumento por el absurdo. 
 
 Desde el punto de vista puramente algebráico (más bien aritmético) el hecho de que el radicando sea 2 y la raíz sea cuadrada no juegan ningún rol demasiado especial, como vamos a ver. 
 
@@ -38,7 +38,7 @@ Sean $n,\ell\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m
 
 <strong>Demostración.</strong>
 
-Supongamos que $\sqrt[\ell]{n}\in\mathbf{Q}$, entonces $\exists a,b\in\mathbf{N}$ tales que $\sqrt[\ell]{n}=\frac{a}{b}$. El punto clave es asumir que $a$ y $b$ son coprimos, es decir que en el cociente, hemos *simplificado* todos los factores primos comunes. Hecho ese supuesto, volvemos a la igualdad, ahora en la forma $b^{\ell}n=a^{\ell}$. 
+Supongamos que $\sqrt[\ell]{n}\in\mathbf{Q}$, entonces $\exists a,b\in\mathbf{N}$ tales que $\sqrt[\ell]{n}=\frac{a}{b}$. El punto clave es asumir que $a$ y $b$ son coprimos, es decir que en el cociente, hemos *simplificado* todos los factores primos comunes (esto es inmediato usando el T.F.A.). Hecho ese supuesto, volvemos a la igualdad, ahora en la forma $b^{\ell}n=a^{\ell}$. 
 
 
 
