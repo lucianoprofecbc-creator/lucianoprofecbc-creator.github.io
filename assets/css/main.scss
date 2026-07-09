@@ -7,3 +7,24 @@
 .site-subtitle {
     font-style: italic !important;
 }
+
+.theorem {
+  border-left: 4px solid #555;
+  padding: 1em;
+  margin: 1em 0;
+  background: #f5f5f5;
+}
+
+.definition {
+  border-left: 4px solid #777;
+  padding: 1em;
+  margin: 1em 0;
+  background: #fafafa;
+}
+
+.proof {
+  border-left: 4px solid #999;
+  padding: 1em;
+  margin: 1em 0;
+  font-style: italic;
+}
