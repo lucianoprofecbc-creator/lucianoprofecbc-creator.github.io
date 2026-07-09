@@ -30,6 +30,6 @@ Pero la demostración de la irracionalidad no tiene ninguna dificultad, aun cuan
 
 <strong>Teorema (Irracionalidad de $\sqrt[\ell]{n}$).</strong>
 
-Sean $n,\ell\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m^{\ell}$ o bien $\sqrt[\ell]{n}$
+Sean $n,\ell\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m^{\ell}$ o bien $\sqrt[\ell]{n}\notin\mathbf{Q}$
 
 </div>
