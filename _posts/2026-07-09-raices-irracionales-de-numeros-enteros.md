@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Raíces Irracionales de Números Enteros"
 categories:
   - Matemáticas
