@@ -18,4 +18,6 @@ Desde el punto de vista puramente algebráico (más bien aritmético) el hecho d
 
 Desde el punto de vista pedagógico, sin embargo, $\sqrt{2}$ es particularmente bueno porque se puede mostrar antes que nada que $\sqrt{2}$ efectivamente *existe*. Esta demostración de existencia es una construcción elemental con regla y compás que permite ubicar un segmento de longitud $\sqrt{2}$ en la recta a partir de una utilización inteligente del Teorema de Pitágoras. 
 
-![Construcción geométrica de $\sqrt{2}$]({{ '/assets/images/posts/raices/sqrt2.svg' | relative_url }} "Construcción de la raíz cuadrada de 2")
+<p align="center">
+  <img src="{{ '/assets/images/posts/raices/sqrt2.svg' | relative_url }}" alt="Construcción geométrica de raíz de 2">
+</p>
