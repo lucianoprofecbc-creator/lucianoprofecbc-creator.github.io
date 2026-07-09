@@ -45,3 +45,7 @@ Hecho ese supuesto, volvemos a la igualdad, ahora en la forma: $b^{\ell}n=a^{\el
 </div>
 
 Nótese que ni siquiera fue necesario un argumento por el absurdo.
+
+## Demostración Artesanal 
+
+[📄 Versión PDF en Zenodo](https://doi.org/10.5281/zenodo.21249890)
