@@ -34,7 +34,7 @@ Sean $n,\ell\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m
 
 </div>
 
-<div class="proof">
+<div class="proof" markdown="1">
 
 <strong>Demostración.</strong>
 
