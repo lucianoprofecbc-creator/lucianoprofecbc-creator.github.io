@@ -48,4 +48,8 @@ Nótese que ni siquiera fue necesario un argumento por el absurdo.
 
 ## Demostración Artesanal 
 
-[📄 Versión PDF en Zenodo](https://doi.org/10.5281/zenodo.21249890)
+Existe una demostración alternativa de la irracionalidad de $\sqrt{2}$ que vi una vez en Twitter y uso en mis cursos de pre-cálculo, generalizándola a $\sqrt{n}$. 
+
+Esta demostración tiene la ventaja de usar solamente la función *parte entera inferior* (*floor*) y el buen ordenamiento de los naturales. Sirve, más que nada, como una forma de mostrar la utilidad de la función *floor* en el comienzo de cursos elementales. 
+
+El principal problema de dicha demostración es que si bien resulta inmediato para $\sqrt{n}$, no se extiende de manera trivial a $\sqrt[\ell]{n}$ como la demostración que usa el T.F.A. El motivo es que el paso clave de la demo ([📄 PDF completo en Zenodo](https://doi.org/10.5281/zenodo.21249890)) usa el hecho de que $\sqrt{n}*\sqrt{n}=n\in\mathbf{N}$, y eso no lo podemos replicar en el caso general. 
