@@ -38,7 +38,9 @@ Sean $n,\ell\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m
 
 <strong>Demostración.</strong>
 
-Supongamos que $\sqrt[\ell]{n}\in\mathbf{Q}$, entonces $\exists a,b\in\mathbf{N}$ tales que $\sqrt[\ell]{n}=\frac{a}{b}$. El punto clave es asumir que $a$ y $b$ son coprimos, es decir que en el cociente, hemos *simplificado* todos los factores primos comunes (esto es inmediato usando el T.F.A.). Hecho ese supuesto, volvemos a la igualdad, ahora en la forma $b^{\ell}n=a^{\ell}$. 
+Supongamos que $\sqrt[\ell]{n}\in\mathbf{Q}$, entonces $\exists a,b\in\mathbf{N}$ tales que $\sqrt[\ell]{n}=\frac{a}{b}$. El punto clave es asumir que $a$ y $b$ son coprimos, es decir que en el cociente, hemos *simplificado* todos los factores primos comunes (esto es inmediato usando el T.F.A.). 
+
+Hecho ese supuesto, volvemos a la igualdad, ahora en la forma: $b^{\ell}n=a^{\ell}$. Esta igualdad implica que $n$ divide a $a^{\ell}$, pero a su vez, el hecho de que $a$ y $b$ son coprimos, implica que todos los factores primos de $a^{\ell}$ están en $n$, de manera que $a^{\ell}$ divide a $n$. Esto implica que $b^{\ell}$ tiene que ser 1 y entonces $n=a^{\ell}$ o llamando $a=m$ tenemos $a=m^{\ell}$.  
 
 
 
