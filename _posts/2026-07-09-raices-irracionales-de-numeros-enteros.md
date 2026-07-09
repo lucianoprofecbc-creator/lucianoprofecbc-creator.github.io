@@ -22,4 +22,14 @@ Desde el punto de vista pedagógico, sin embargo, $\sqrt{2}$ es particularmente 
   <img src="{{ '/assets/images/posts/raices/sqrt2.svg' | relative_url }}" alt="Construcción geométrica de raíz de 2">
 </p>
 
-Una vez convencidos de que $\sqrt{2}$ es efectivamente un número *real* procedemos a probar que no es racional con un argumento por el absurdo. Generalicemos esa idea conocida por todos al caso de una raíz $\ell -esima$ de un natural $m$. 
+Una vez convencidos de que $\sqrt{2}$ es efectivamente un número *real* procedemos a probar que no es racional con un argumento por el absurdo. Intentar replicar esta idea para, por ejemplo, $\sqrt[3]{2}$ nos lleva a la famosa imposibilidad de *doblar el cubo* y en general, para la raíz de orden arbitrario, a las restricciones que impone la teoría de Galois a las de extensiones de cuerpos.   
+
+Pero la demostración de la irracionalidad no tiene ninguna dificultad, aun cuando no *veamos* el número tan fácilmente en la recta. Generalicemos la idea conocida por todos al caso de una raíz $\ell -esima$ de un natural $m$. 
+
+<div class="theorem">
+
+<strong>Teorema (Irracionalidad de $\sqrt[\ell]{n}$).</strong>
+
+Sea $n\in\mathbf{N}$. Entonces o bien existe $m\in\mathbf{N}$ tal que $n=m^{\ell}$ o bien $\sqrt[\ell]{n}$
+
+</div>
