@@ -42,6 +42,6 @@ Supongamos que $\sqrt[\ell]{n}\in\mathbf{Q}$, entonces $\exists a,b\in\mathbf{N}
 
 Hecho ese supuesto, volvemos a la igualdad, ahora en la forma: $b^{\ell}n=a^{\ell}$. Esta igualdad implica que $n$ divide a $a^{\ell}$, pero a su vez, el hecho de que $a$ y $b$ son coprimos, implica que todos los factores primos de $a^{\ell}$ están en $n$, de manera que $a^{\ell}$ divide a $n$. Esto implica que $b^{\ell}$ tiene que ser 1 y entonces $n=a^{\ell}$ o llamando $a=m$ tenemos $n=m^{\ell}$.  
 
-
-
 </div>
+
+Nótese que ni siquiera fue necesario un argumento por el absurdo.
