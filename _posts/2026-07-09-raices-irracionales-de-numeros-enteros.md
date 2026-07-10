@@ -60,7 +60,7 @@ El principal problema de dicha demostración es que si bien resulta inmediato pa
 
 Una sensación que deja este sencillo análisis es que *casi todas las raíces son irracionales* y a uno le surge la natural curiosidad del *por qué* 🤔. Si bien es obvio que el cardinal de los cuadrados perfectos es el mismo que el de los naturales, es fácil ver cómo se van *espaciando*: hay 10 cuadrados perfectos entre 1 y 100 (1, 4, 9, 16, 25, 36, 49, 64, 81, 100), después hay 4 entre 101 y 200 (121, 144, 169, 196) y así van siendo *menos frecuentes* cuanto más grandes, naturalmente. 
 
-También resulta que cuanto más alto el $\ell$ más se espacían los $m^{\ell}$ y entonces cada vez m\'as raices $\ell$-ésimas son irracionales. 
+También resulta que cuanto más alto el $\ell$ más se espacían los $m^{\ell}$ y entonces cada vez más raíces $\ell$-ésimas son irracionales. 
 
 La razón subyacente a estos "fenómenos" numéricos seguramente es obvia para quien tiene un conocimiento cabal de la teoría de cuerpos y de la teoría de Galois y algún día me gustaría poder decir que yo soy esa persona. 
 
