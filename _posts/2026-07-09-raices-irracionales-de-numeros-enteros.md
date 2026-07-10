@@ -53,3 +53,13 @@ Existe una demostración alternativa de la irracionalidad de $\sqrt{2}$ que vi u
 Esta demostración tiene la ventaja de usar solamente la función *parte entera inferior* (*floor*) y el buen ordenamiento de los naturales. Sirve, más que nada, como una forma de mostrar la utilidad de la función *floor* en el comienzo de cursos elementales. 
 
 El principal problema de dicha demostración es que si bien resulta inmediato para $\sqrt{n}$, no se extiende de manera trivial a $\sqrt[\ell]{n}$ como la demostración que usa el T.F.A. El motivo es que el paso clave de la demo ([📄 PDF completo en Zenodo](https://doi.org/10.5281/zenodo.21249890)) usa el hecho de que $\sqrt{n}*\sqrt{n}=n\in\mathbf{N}$, y eso no lo podemos replicar en el caso general. 
+
+## Comentarios Finales
+
+Una sensación que deja este sencillo análisis es que *casi todas las raíces son irracionales* y a uno le surge la natural curiosidad del *por qué* 🤔. La respuesta seguramente es obvia para quien tiene un conocimiento cabal de la teoría de cuerpos y de la teoría de Galoism y algún día me gustaría poder decir que yo soy esa persona. 
+
+Por el momento digamos que es una cuestión tan interesante que se puede plantear al comienzo de un curso de pre-cálculo (incluso pre-universitario) y conectar con esos temas tan profundos. 
+
+Bueno, hasta que los moleste luego. 
+
+L.A.P. 
