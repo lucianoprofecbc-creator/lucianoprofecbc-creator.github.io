@@ -46,7 +46,7 @@ Hecho ese supuesto, volvemos a la igualdad, ahora en la forma: $b^{\ell}n=a^{\el
 
 </div>
 
-Nótese que ni siquiera fue necesario un argumento por el absurdo.
+Nótese que ni siquiera fue necesario un argumento por el absurdo para el caso general. Ahora es sencillo mostrar la irracionalidad de ciertos casos, por ejemplo de las raíces de números primos: $\sqrt[\ell]{p}\in\mathbf{Q}\iff p=m^{\ell}$ con $m\in\mathbf{N}$, pero si $p$ es primo esto sólo puede pasar si $p=m$ y $\ell=1$, así que $\sqrt[\ell]{p}\notin\mathbf{Q}$ si $\ell\geq2$. 
 
 ## Demostración Artesanal 
 
