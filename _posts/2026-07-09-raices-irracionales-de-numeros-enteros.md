@@ -26,7 +26,7 @@ Desde el punto de vista pedagógico, sin embargo, $\sqrt{2}$ es particularmente 
 
 Una vez convencidos de que $\sqrt{2}$ es efectivamente un número *real* procedemos a probar que no es racional con un argumento por el absurdo. Intentar replicar la construcción geométrica para, por ejemplo, $\sqrt[3]{2}$ nos lleva a la famosa imposibilidad de *doblar el cubo* y en general, para la raíz de orden arbitrario, a las restricciones que impone la teoría de Galois a las extensiones de cuerpos.   
 
-Pero la demostración de la irracionalidad no tiene ninguna dificultad, aun cuando no *veamos* el número tan fácilmente en la recta. Generalicemos la idea conocida por todos al caso de una raíz $\ell -esima$ de un natural $m$. 
+Pero la demostración de la irracionalidad no tiene ninguna dificultad, aun cuando no *veamos* el número tan fácilmente en la recta. Generalicemos la idea conocida por todos al caso de una raíz $\ell$-ésima de un natural $m$. 
 
 <div class="theorem">
 
@@ -58,9 +58,11 @@ El principal problema de dicha demostración es que si bien resulta inmediato pa
 
 ## Comentarios Finales
 
-Una sensación que deja este sencillo análisis es que *casi todas las raíces son irracionales* y a uno le surge la natural curiosidad del *por qué* 🤔. 
+Una sensación que deja este sencillo análisis es que *casi todas las raíces son irracionales* y a uno le surge la natural curiosidad del *por qué* 🤔. Si bien es obvio que el cardinal de los cuadrados perfectos es el mismo que el de los naturales, es fácil ver cómo se van *espaciando*: hay 10 cuadrados perfectos entre 1 y 100 (1, 4, 9, 16, 25, 36, 49, 64, 81, 100), después hay 4 entre 101 y 100 (121, 144, 169, 196) y así van siendo *menos frecuentes* cuanto más grandes, naturalmente. 
 
-La respuesta seguramente es obvia para quien tiene un conocimiento cabal de la teoría de cuerpos y de la teoría de Galois y algún día me gustaría poder decir que yo soy esa persona. 
+También resulta que cuanto más alto el $\ell$ más se espacían los $m^{\ell}$ y entonces cada vez m\'as raices $\ell$-ésimas son irracionales. 
+
+La razón subyacente a estos "fenómenos" numéricos seguramente es obvia para quien tiene un conocimiento cabal de la teoría de cuerpos y de la teoría de Galois y algún día me gustaría poder decir que yo soy esa persona. 
 
 Por el momento digamos que es una cuestión tan interesante que se puede plantear al comienzo de un curso de pre-cálculo (incluso pre-universitario) y conectar con temas matemáticos profundos. 
 
