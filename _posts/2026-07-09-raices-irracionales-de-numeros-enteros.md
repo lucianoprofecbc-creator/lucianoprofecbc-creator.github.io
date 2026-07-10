@@ -4,6 +4,8 @@ title: "Raíces Irracionales de Números Enteros"
 categories:
   - Matemáticas
 tags:
+  - Pre-Calculo
+  - Enseñanza de la Matemática
   - Álgebra
   - Números
   - Irracionalidad
@@ -56,9 +58,11 @@ El principal problema de dicha demostración es que si bien resulta inmediato pa
 
 ## Comentarios Finales
 
-Una sensación que deja este sencillo análisis es que *casi todas las raíces son irracionales* y a uno le surge la natural curiosidad del *por qué* 🤔. La respuesta seguramente es obvia para quien tiene un conocimiento cabal de la teoría de cuerpos y de la teoría de Galois y algún día me gustaría poder decir que yo soy esa persona. 
+Una sensación que deja este sencillo análisis es que *casi todas las raíces son irracionales* y a uno le surge la natural curiosidad del *por qué* 🤔. 
 
-Por el momento digamos que es una cuestión tan interesante que se puede plantear al comienzo de un curso de pre-cálculo (incluso pre-universitario) y conectar con esos temas tan profundos. 
+La respuesta seguramente es obvia para quien tiene un conocimiento cabal de la teoría de cuerpos y de la teoría de Galois y algún día me gustaría poder decir que yo soy esa persona. 
+
+Por el momento digamos que es una cuestión tan interesante que se puede plantear al comienzo de un curso de pre-cálculo (incluso pre-universitario) y conectar con temas matemáticos profundos. 
 
 Bueno, hasta que los moleste luego. 
 
