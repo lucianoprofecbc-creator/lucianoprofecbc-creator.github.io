@@ -1,5 +1,5 @@
 ---
-title: "Acerca de"
+title: "Acerca de: "
 permalink: /about/
 author_profile: true
 ---
