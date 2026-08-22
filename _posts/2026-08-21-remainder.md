@@ -96,7 +96,7 @@ Me di cuenta de que me tiró fruta porque me dijo algo que yo ya había pensado 
 
 Así que le dije eso a Gemini y se ve que se ofendió porque hizo algo que yo hago siempre que alguien me pregunta algo: me mandó a leer el Rey Pastor. Concretamente me dijo que busque la *forma de Schlömilch*, algo que efectivamente estaba en el libro, y está bueno pero no tan bueno como lo que sigue. 
 
-Así como al pasar, me tiró también una referencia **BUENÍSIMA** que yo **NO** conocía (rarísimo, yo conozco todo 🤌 😂😂😂): *buscá el libro de Fikhtengol'ts, *The Fundamentals of Mathematical Analysis (vol.1)*. Lo fui a buscar y ya un primer vistazo me dio una buena sensación: está traducido del ruso por Ian Sneddon (es de 1965 el libro). Que un tipo que escribe libros buenos, concisos y elegantes como Sneddon se haya tomado el trabajo de traducir dos tomos de más de 500 páginas de un libro de análisis bastante introductorio, *por algo debe ser*, me dije.
+Así como al pasar, me tiró también una referencia **BUENÍSIMA** que yo **NO** conocía (rarísimo, yo conozco todo 🤌 😂😂😂): *buscá el libro de Fikhtengol'ts, The Fundamentals of Mathematical Analysis (vol.1)*. Lo fui a buscar y ya un primer vistazo me dio una buena sensación: está traducido del ruso por Ian Sneddon (es de 1965 el libro). Que un tipo que escribe libros buenos, concisos y elegantes como Sneddon se haya tomado el trabajo de traducir dos tomos de más de 500 páginas de un libro de análisis bastante introductorio, *por algo debe ser*, me dije.
 
 Dicho y hecho, el libro de Fikhtengol'ts está buenísimo: extremadamente claro, muy elegante pero sin galerazos, y lleno de pequeñas observaciones inteligentes y profundas, como este blog (😂) pero en serio. Me gustaría hablar largo y tendido del mismo, pero no quiero spoilear, vayan, lean y disfruten. 
 
@@ -110,7 +110,7 @@ $$R_{n}(x)=f(x)-P_{n}(x)=$$
 
 $$=f(x)-f(x_{0})-f'(x_{0})(x-x_{0})-\frac{f''(x_{0})}{2}(x-x_{0})^{2}-\cdots-\frac{f^{n}(x_{0})}{n!}(x-x_{0})^{n}$$
 
-En esta fórmula, $x_{0}$ está fijo y $x$ varía en algún entorno del mismo. Ahora bien, cuando estamos tratando con el resto de Taylor, el supuesto típico para que nos salga una fórmula compacta y elegante como la de Lagrange, la de Cauchy, etc., es que las derivadas de $f(x)$ hasta orden $n+1$ existen en todo un entorno $(x_{0}-\delta,x_{0}+\delta)$ y que son continuas en $[x_{0}-\delta,x_{0}+\delta]$. 
+En esta fórmula, $x_{0}$ está fijo y $x$ varía en algún entorno del mismo. Ahora bien, cuando estamos tratando con el resto de Taylor, el supuesto típico para que nos salga una fórmula compacta y elegante como la de Lagrange, la de Cauchy, etc., es que las derivadas de $f(x)$ hasta orden $n+1$ existen y son continuas en algún $[x_{0}-\delta,x_{0}+\delta]$. 
 
 Pensado así, podemos fijar un $x$ en dicho entorno y *variar $x_{0}$*, o sea que el centro sea $t$ con $t\in(x_{0}-\delta,x_{0}+\delta)$, computando un nuevo $P_{n}$ para cada $x_{0}$, es decir pensamos en la función: 
 
@@ -126,7 +126,8 @@ pero también:
 
 $$\left(\frac{f^{k+1}(t)(x-t)^{k+1}}{(k+1)!}\right)'=\frac{f^{k+2}(t)(x-t)^{k}}{k!}-\frac{f^{k+1}(t)(x-t)^{k}}{k!}$$
 
-y entonces cuando calculamos $\phi'(t)$ se nos anulan todos los términos al sumar, excepto el último: 
+y entonces cuando calculamos $\phi'(t)$ se nos anulan todos los té
+rminos al sumar, excepto el último: 
 
 $$\phi'(t)=-\frac{f^{n+1}(t)(x-t)^{n}}{n!}$$ 
 
