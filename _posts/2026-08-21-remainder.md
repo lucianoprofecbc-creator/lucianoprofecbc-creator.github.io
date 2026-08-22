@@ -126,8 +126,7 @@ pero también:
 
 $$\left(\frac{f^{k+1}(t)(x-t)^{k+1}}{(k+1)!}\right)'=\frac{f^{k+2}(t)(x-t)^{k}}{k!}-\frac{f^{k+1}(t)(x-t)^{k}}{k!}$$
 
-y entonces cuando calculamos $\phi'(t)$ se nos anulan todos los té
-rminos al sumar, excepto el último: 
+y entonces cuando calculamos $\phi'(t)$ se nos anulan todos los términos al sumar, excepto el último: 
 
 $$\phi'(t)=-\frac{f^{n+1}(t)(x-t)^{n}}{n!}$$ 
 
