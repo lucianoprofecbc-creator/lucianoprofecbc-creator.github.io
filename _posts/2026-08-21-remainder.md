@@ -144,7 +144,7 @@ Pero recordemos que $\phi(x)=0$, $\phi(x_{0})=R_{n}(x)$ y que $\phi'(t)=-\dfrac{
 
 $$\boxed{R_{n}(x)=-\frac{\psi(x_{0})-\psi(x)}{\psi'(c)}\frac{f^{n+1}(c)(x-c)^{n}}{n!}}$$
 
-Y esta es la verdad de la milanesa: la elección de la $\psi(t)$ es la clave. Elijamos $\psi(t)=(x-t)^{n+1}$ y nos queda $\psi'(c)=-(n+1)(x-c)^{n}$, $\psi(x_{0})=(x-x_{0})^{n+1}$, $\psi(x)=0$ así que:
+**Y esta es la verdad de la milanesa: la elección de la $\psi(t)$ es la clave**. Elijamos $\psi(t)=(x-t)^{n+1}$ y nos queda $\psi'(c)=-(n+1)(x-c)^{n}$, $\psi(x_{0})=(x-x_{0})^{n+1}$, $\psi(x)=0$ así que:
 
 $$R_{n}(x)=-\frac{(x-x_{0})^{n+1}}{-(n+1)(x-c)^{n}}\frac{f^{n+1}(c)(x-c)^{n}}{n!}=\frac{f^{n+1}(c)}{(n+1)!}(x-x_{0})^{n+1}$$
 
