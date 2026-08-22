@@ -96,7 +96,9 @@ Me di cuenta de que me tiró fruta porque me dijo algo que yo ya había pensado 
 
 Así que le dije eso a Gemini y se ve que se ofendió porque hizo algo que yo hago siempre que alguien me pregunta algo: me mandó a leer el Rey Pastor. Concretamente me dijo que busque la *forma de Schlömilch*, algo que efectivamente estaba en el libro, y está bueno pero no tan bueno como lo que sigue. 
 
-Así como al pasar, me tiró también una referencia **BUENÍSIMA** que yo **NO** conocía (rarísimo, yo conozco todo 🤌 😂😂😂): *buscá el libro de Fikhtengol'ts, The Fundamentals of Mathematical Analysis (vol.1)*. Lo fui a buscar y ya un primer vistazo me dio una buena sensación: está traducido del ruso por Ian Sneddon (es de 1965 el libro). Que un tipo que escribe libros buenos, concisos y elegantes como Sneddon se haya tomado el trabajo de traducir dos tomos de más de 500 páginas de un libro de análisis bastante introductorio, *por algo debe ser*, me dije.
+Así como al pasar, me tiró también una referencia **BUENÍSIMA** que yo **NO** conocía (rarísimo, yo conozco todo 🤌 😂😂😂): *buscá el libro de Fikhtengol'ts, The Fundamentals of Mathematical Analysis (vol.1)*. 
+
+Lo fui a buscar y ya un primer vistazo me dio una buena sensación: está traducido del ruso por Ian Sneddon (es de 1965 el libro). Que un tipo que escribe libros buenos, concisos y elegantes como Sneddon se haya tomado el trabajo de traducir dos tomos de más de 500 páginas de un libro de análisis bastante introductorio, *por algo debe ser*, me dije.
 
 Dicho y hecho, el libro de Fikhtengol'ts está buenísimo: extremadamente claro, muy elegante pero sin galerazos, y lleno de pequeñas observaciones inteligentes y profundas, como este blog (😂) pero en serio. Me gustaría hablar largo y tendido del mismo, pero no quiero spoilear, vayan, lean y disfruten. 
 
