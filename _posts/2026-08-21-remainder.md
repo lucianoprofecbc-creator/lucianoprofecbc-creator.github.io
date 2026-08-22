@@ -126,7 +126,7 @@ pero también:
 
 $$\left(\frac{f^{k+1}(t)(x-t)^{k+1}}{(k+1)!}\right)'=\frac{f^{k+2}(t)(x-t)^{k}}{k!}-\frac{f^{k+1}(t)(x-t)^{k}}{k!}$$
 
-y entonces cuando calculamos $\phi'(t)$ se nos anulan todos los t\'erminos al sumar, excepto el último: 
+y entonces cuando calculamos $\phi'(t)$ se nos anulan todos los términos al sumar, excepto el último: 
 
 $$\phi'(t)=-\frac{f^{n+1}(t)(x-t)^{n}}{n!}$$ 
 
@@ -154,7 +154,7 @@ Para obtener la forma de Cauchy elegimos $\psi(t)=(x-t)$, llamamos a $c=x_{0}+\t
 
 La **Forma de Schlömilch** propiamente dicha no es esta tan general que está en el libro de Fikhtengol'ts, sino la que figura en el libro de Rey Pastor (§39-2): 
 
-$$R_{x}=\frac{f^{n+1}(x_{0}+h\theta)}{n!p}h^{n+1}(1-\theta)^{n+1-p}$$
+$$R_{n}(x)=\frac{f^{n+1}(x_{0}+h\theta)}{n!p}h^{n+1}(1-\theta)^{n+1-p}$$
 
 que incluye a Lagrange ($p=n+1$) y Cauchy ($p=1$) como casos particulares. Se obtiene simplemente con  $\psi(t)=(x-t)^{p}$, para $p=1,2,...,n+1$. 
 
