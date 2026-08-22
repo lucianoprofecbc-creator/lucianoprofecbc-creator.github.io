@@ -68,7 +68,7 @@ y el radio de convergencia se mantiene, así que obviamente $R_{n}(x)\xrightarro
 
 El problema tiene que ser entonces la propia fórmula de Lagrange para el resto que no permite acotar de manera más precisa con la información del $c\in(0,2/3)$. 
 
-En el momento en que me dí cuenta de eso hice lo que haría cualquiera en esa situación, preguntarle a [Germán Chiappe](https://www.researchgate.net/profile/German-Chiappe), quien me recordó algo que alguna vez había leido pero por falta de uso ya recordaba muy vagamente: "*las otras formas del resto de Taylor a veces pueden ser útiles, fijate con la forma de Cauchy o la forma integral*". Como de manera habitual, Chiappe tenía razón, de hecho con ambas formas sale de manera muy similar. 
+En el momento en que me dí cuenta de eso hice lo que haría cualquiera en esa situación, preguntarle a [Germán Chiappe](https://www.researchgate.net/profile/German-Chiappe), quien me recordó algo que yo alguna vez había leido pero por falta de uso ya recordaba muy vagamente: "*las otras formas del resto de Taylor a veces pueden ser útiles, fijate con la forma de Cauchy o la forma integral*". Como de manera habitual, Chiappe tenía razón, de hecho con ambas formas sale de manera muy similar. 
 
 Mostrémoslo con la forma de Cauchy, la acotación con la forma integral es prácticamente la misma. La fórmula para el resto según Cauchy, que saqué del tomo 1 del libro de Courant & John es: 
 
