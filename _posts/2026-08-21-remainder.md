@@ -106,7 +106,9 @@ Dicho y hecho, el libro de Fikhtengol'ts está buenísimo: extremadamente claro,
 
 Sí voy a spoilear lo que tiene que ver con el resto de aproximar por Taylor porque al fin y al cabo a eso vinimos. 
 
-El *truco* para encontrar todas las formas juntas del resto que usa Fikhtengol'ts es básicamente el mismo que está en el Courant & John, pero lo hace con una elegante parsimonia muy propia de todo su tratado. Recordemos la definición de resto de aproximar $f(x)$ por $P_{n}(x)$:
+El *truco* para encontrar todas las formas juntas del resto que usa Fikhtengol'ts es básicamente el mismo que está en el Courant & John, pero lo hace con una elegante parsimonia muy propia de todo su tratado. 
+
+Recordemos la definición de resto de aproximar $f(x)$ por $P_{n}(x)$:
 
 $$R_{n}(x)=f(x)-P_{n}(x)=$$
 
