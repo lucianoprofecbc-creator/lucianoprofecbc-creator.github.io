@@ -116,7 +116,7 @@ $$=f(x)-f(x_{0})-f'(x_{0})(x-x_{0})-\frac{f''(x_{0})}{2}(x-x_{0})^{2}-\cdots-\fr
 
 En esta fórmula, $x_{0}$ está fijo y $x$ varía en algún entorno del mismo. Ahora bien, cuando estamos tratando con el resto de Taylor, el supuesto típico para que nos salga una fórmula compacta y elegante como la de Lagrange, la de Cauchy, etc., es que las derivadas de $f(x)$ hasta orden $n+1$ existen y son continuas en algún $[x_{0}-\delta,x_{0}+\delta]$. 
 
-Pensado así, podemos fijar un $x$ en dicho entorno y *variar $x_{0}$*, o sea que el centro sea $t$ con $t\in(x_{0}-\delta,x_{0}+\delta)$, computando un nuevo $P_{n}$ para cada $x_{0}$, es decir pensamos en la función: 
+Pensado así, podemos fijar un $x$ en dicho entorno y *variar $x_{0}$*, o sea que el centro sea $t$ con $t\in[x_{0}-\delta,x_{0}+\delta]$, computando un nuevo $P_{n}$ para cada $x_{0}$, es decir pensamos en la función: 
 
 $$\phi(t)=f(x)-f(t)-f'(t)(x-t)-\frac{f''(t)}{2}(x-t)^{2}-\cdots-\frac{f^{n}(t)}{n!}(x-t)^{n}$$
 
